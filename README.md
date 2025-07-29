@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋 Hi, I'm Ishveen!
-🎓 Junior at Boston University, studying Computer Science
-🔭 Aspiring Software Engineer and Machine Learning Enthusiast
+👋 Hi, I'm Ishveen!  
+🎓 Junior at Boston University, studying Computer Science  
+🔭 Aspiring Software Engineer and Machine Learning Enthusiast  
 
 I have experience in building websites, leveraging VR, and machine learning. My work with different organizations has helped them streamline their efficiency and increase profits through creating new applications. Currently, I am a Machine Learning Fellow with Break Through Tech, diving into ML concepts through Cornell’s coursework and I am soon applying them to industry challenges. I have previously interned at Liberty 53 District and OmniLifeVR, where I worked on everything from rebuilding websites to exploring how VR connects to real-world tech. I’m looking to leverage and grow my skills in an internship where I can contribute to exciting projects and learn from industry professionals- got any leads? Let me know!
 
@@ -28,8 +28,8 @@ Databases: MySQL
 🚀 Projects: Coming soon!
 
 
-📫 How to Reach Me:
-Email: ishveenk05@gmail.com
+📫 How to Reach Me:  
+Email: ishveenk05@gmail.com  
 LinkedIn: https://www.linkedin.com/in/ishveen-kaur5/
 
 
