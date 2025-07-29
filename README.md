@@ -26,7 +26,7 @@ Tools: Jupyter Notebooks, Google Colab, Git, GitHub
 Databases: MySQL
  
 🚀 Projects: Coming soon!
-A few other noteworthy projComing soon!ects I’ve worked on:
+
 
 📫 How to Reach Me:
 Email: ishveenk05@gmail.com
