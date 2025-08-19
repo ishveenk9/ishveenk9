@@ -33,7 +33,7 @@ Email: ishveenk05@gmail.com
 LinkedIn: https://www.linkedin.com/in/ishveen-kaur5/
 
 
-📊 GitHub Stats: Coming soon!
+📊 GitHub Stats: 59 contributions in the last year
  
 
 
