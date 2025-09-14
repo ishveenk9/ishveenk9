@@ -25,7 +25,15 @@ Web Dev: HTML, CSS, JavaScript, Node.js
 Tools: Jupyter Notebooks, Google Colab, Git, GitHub  
 Databases: MySQL
  
-🚀 Projects: Coming soon!
+🚀 Projects: 
+BUdget
+- Languages: JavaScript, CSS, HTML
+Summary: This was a project created as an entry the 2024 Boston Hacks for the challenges Reimagine Reality and the Campus Solution Challenge. It can be agreed upon that budgeting is one of the biggest struggles in college. This website helps relieve some of the stress by creating a budget personalized to the user based on their expenses and allowing them organize their finances. The website implements AI to give students an optimized way of handling their finances by using how much they want to save in a certain amount of time to figure out how much they should be saving by the end of each month. 
+
+Online Closet
+- Languages: Python, HTML
+- Frameworks: Django
+Summary: An application that allows users to store clothing or other inventory items into one place. The application allows the user to sort their items into categories and edit/delete items after adding them. It can also be altered to send alerts when the quantity/stock of an item is too low. This application integrated User Authentication, User Registration, and Item Editing/Deleting into the application.
 
 
 📫 How to Reach Me:  
